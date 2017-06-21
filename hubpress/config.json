@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://kevcoxe.github.io/kevcoxe.github.io",
+    "hubpress": "https://kevcoxe.github.io/kevcoxe.github.io",
+    "theme": "//kevcoxe.github.io/kevcoxe.github.io/themes/casper",
+    "images": "https://kevcoxe.github.io/kevcoxe.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
