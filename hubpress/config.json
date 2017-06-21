@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "saga"
   },
   "urls": {
     "site": "https://kevcoxe.github.io",
     "hubpress": "https://kevcoxe.github.io",
-    "theme": "//kevcoxe.github.io/themes/ichi",
+    "theme": "//kevcoxe.github.io/themes/roon",
     "images": "https://kevcoxe.github.io/images"
   },
   "initialisationConfigComponent": {
