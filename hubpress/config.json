@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
     "site": "https://kevcoxe.github.io",
     "hubpress": "https://kevcoxe.github.io",
-    "theme": "//kevcoxe.github.io/themes/the-shell",
+    "theme": "//kevcoxe.github.io/themes/uno-zen",
     "images": "https://kevcoxe.github.io/images"
   },
   "initialisationConfigComponent": {
