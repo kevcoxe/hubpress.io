@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://kevcoxe.github.io",
     "hubpress": "https://kevcoxe.github.io",
-    "theme": "//kevcoxe.github.io/themes/roon",
+    "theme": "//kevcoxe.github.io/themes/saga",
     "images": "https://kevcoxe.github.io/images"
   },
   "initialisationConfigComponent": {
