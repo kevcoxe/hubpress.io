@@ -1,0 +1,3 @@
+= Your Blog title
+
+See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
